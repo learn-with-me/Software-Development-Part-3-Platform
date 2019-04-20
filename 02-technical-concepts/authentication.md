@@ -7,6 +7,7 @@
 * OAuth 2
 * SAML
 * RADUIS
+* OpenID Connect
 
 ### API
 
