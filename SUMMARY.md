@@ -28,7 +28,9 @@
     * [Package Management](04-back-end/java/package-management.md)
     * [Remote Debugging](04-back-end/java/remote-debugging.md)
   * [Python](04-back-end/python.md)
+    * [Virtual Environment](04-back-end/python/virtual-environment.md)
   * [GraphQL](04-back-end/java/graphql.md)
+  * [Redis](04-back-end/java/redis.md)
 * [Local Development](local-development/README.md)
   * [Setting up Linux](local-development/setting-up-linux/README.md)
     * [Linux Docker](local-development/setting-up-linux/linux-docker.md)
@@ -44,3 +46,4 @@
     * [IDE IntelliJ](local-development/ide/ide-intellij.md)
     * [IDE WebStorm](local-development/ide/ide-webstorm.md)
   * [Debugging](local-development/debugging.md)
+
