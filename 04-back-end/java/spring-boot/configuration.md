@@ -60,5 +60,11 @@ Disable All Security Checks for Actuator Endpoints (behind firewall)
 management.security.enabled=false
 ```
 
+#### Note
+
+```
+Learn about Auto-Configuration
+```
+
 
 
